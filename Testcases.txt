@@ -1,0 +1,143 @@
+0
+Total Price:
+10590
+1
+Total Price:
+2000
+2
+Search by ID: 7245
+7245 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+7245 01.12.2020 01:28 1400 No 30 Yes No Yes Yes
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+3
+Search by ID: 1212
+No result
+4
+Search by ID: 9999
+9999 09.12.2020 23:59 2200 No 40 Yes No Yes Yes
+5
+Search by date: 09.12.2020
+9999 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+9999 09.12.2020 23:59 2200 No 40 Yes No Yes Yes
+7777 09.12.2020 23:52 990 Yes 20 No Yes No No
+6
+Search by date: 01.01.2021
+1234 01.01.2021 00:01 2000 Yes 40 Yes No Yes Yes
+7
+Search by date: 01.01.2022
+No result
+8
+Search by date: 08.11.2020
+No result
+9
+Sort by ID:
+0010 01.01.2021 00:01 2000 Yes 40 Yes No Yes Yes
+1001 09.12.2020 23:59 2200 No 40 Yes No Yes Yes
+1001 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+7245 01.12.2020 01:28 1400 No 30 Yes No Yes Yes
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+7777 09.12.2020 23:59 990 Yes 20 No No No No
+10
+Sort by ID:
+1001 09.12.2020 23:59 2200 No 40 Yes No Yes Yes
+1001 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+1001 09.12.2020 23:59 990 Yes 20 No No No No
+11
+Search by ID: 7245
+7245 01.12.2020 01:28 1400 No 30 Yes No Yes Yes
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+12
+Sort by ID:
+0007 09.12.2020 23:59 990 Yes 20 No No No No
+0099 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+0099 09.12.2020 23:59 2200 No 40 Yes No Yes Yes
+1004 01.01.2021 00:01 2000 Yes 40 Yes No Yes Yes
+1234 01.01.2021 00:01 2000 Yes 40 Yes No Yes Yes
+7245 01.12.2020 01:28 1400 No 30 Yes No Yes Yes
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+7245 01.12.2019 00:28 900 No 30 Yes No Yes No
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+7777 09.12.2020 23:59 990 Yes 20 No No No No
+9999 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+9999 09.12.2020 23:59 2200 No 40 Yes No Yes Yes
+13
+Sort by ID:
+1001 09.12.2020 23:59 990 Yes 20 No No No No
+1002 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+1003 09.12.2020 23:59 2200 No 40 Yes No Yes Yes
+1003 01.12.2020 20:59 1200 No 20 Yes No Yes Yes
+14
+Sort by date and time:
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+7245 01.12.2020 01:28 1400 No 30 Yes No Yes Yes
+9999 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+9999 09.12.2020 23:59 2200 No 40 Yes No Yes Yes
+7777 09.12.2020 23:59 990 Yes 20 No No No No
+1234 01.01.2021 00:01 2000 Yes 40 Yes No Yes Yes
+15
+Sort by date and time:
+1234 09.12.2020 23:57 1600 No 30 Yes Yes Yes Yes
+16
+Sort by date and time:
+7245 01.11.2020 01:28 1400 No 30 Yes No Yes Yes
+1234 11.11.2020 00:01 2000 Yes 40 Yes No Yes Yes
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+7245 11.12.2020 01:57 2400 No 40 Yes Yes Yes Yes
+7777 11.12.2020 23:55 990 Yes 20 No No No No
+9999 11.12.2020 23:59 2200 No 40 Yes No Yes Yes
+9999 11.12.2030 23:57 1600 No 30 Yes Yes Yes Yes
+17
+Sort by date and time:
+7005 12.12.2010 17:00 2400 No 40 Yes Yes Yes Yes
+7245 01.11.2020 01:28 1400 No 30 Yes No Yes Yes
+7245 01.11.2020 01:28 1400 No 30 Yes No Yes Yes
+1234 11.11.2020 00:01 2000 Yes 40 Yes No Yes Yes
+1234 11.11.2020 00:01 2000 Yes 40 Yes No Yes Yes
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+7245 01.12.2020 01:27 2400 No 40 Yes Yes Yes Yes
+7245 11.12.2020 01:57 2400 No 40 Yes Yes Yes Yes
+7777 11.12.2020 23:55 990 Yes 20 No No No No
+7777 11.12.2020 23:55 990 Yes 20 No No No No
+9999 11.12.2020 23:59 2200 No 40 Yes No Yes Yes
+9999 11.12.2020 23:59 2200 No 40 Yes No Yes Yes
+9999 11.12.2030 23:57 1600 No 30 Yes Yes Yes Yes
+0099 11.12.2030 23:57 1600 No 30 Yes Yes Yes Yes
+18
+Most popular size(s):
+30
+40
+
+19
+Most popular size(s):
+40
+
+20
+Most popular size(s):
+20
+
+21
+Most popular size(s):
+20
+40
+
+22
+Most popular pizza type(s):
+Cheese+Sausage+Vegetables
+
+23
+Most popular pizza type(s):
+Cheese
+
+24
+Most popular pizza type(s):
+Cheese+Meat+Sausage+Vegetables
+Cheese+Meat+Vegetables
+Cheese+Meat+Sausage
+
+25
+Most popular pizza type(s):
+Cheese+Sausage+Vegetables
+
+26
+Total Price:
+32370
